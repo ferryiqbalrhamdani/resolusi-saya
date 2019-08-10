@@ -4,5 +4,6 @@ Rencana kedepan saya
   * Implementasi
 - Belajar Data Mining
 - Belajar API
+  * Implementasi
 - Belajar Laravel
 - Belajar Python
