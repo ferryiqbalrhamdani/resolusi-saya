@@ -1,6 +1,6 @@
 Rencana kedepan saya
 - Belajar GIT-HUB
   * Melihat video di youtube
-- Belajar Data Mining
 - Belajar API
+  * Implementasi
 - Belajar Laravel
